@@ -1,6 +1,6 @@
 FORMAT: 1A
 HOST: http://distroller.red-wolf.com.mx
-#  API Distroller
+#  API School Payment
 [Markdown](http://daringfireball.net/projects/markdown/syntax) **formatted** description.
 
 API de consulta para la plataforma de distroller
@@ -440,7 +440,7 @@ Configuraciones de sonido ambiental y efectos de juegos
 ## Group Tutor
 Grupo de Tutor.. Es **reconocido** por el **keyword `grupo`**  `Tutor`.
 
-## Actualzar Tutor [/update/tutor]
+## Actualzar Tutor [/api/update/tutor]
 
 ### Actualizar la informacion del tutor [POST]
 + Request (application/json)
@@ -469,7 +469,7 @@ Grupo de Tutor.. Es **reconocido** por el **keyword `grupo`**  `Tutor`.
 ## Group Estadisticas
 Grupo de Estadisticas.. Es **reconocido** por el **keyword `grupo`**  `Estadisticas`.
 
-## Actualzar Estadisticas [/chilpa/updateScore]
+## Actualzar Estadisticas [/api/chilpa/updateScore]
 
 ### Actualizar el score de cada chilpa [POST]
 
